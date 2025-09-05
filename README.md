@@ -16,7 +16,7 @@ Our analysis focused on **U.S. tech markets**, which were heavily disrupted by C
 - How do macro factors like **unemployment rates** interact with office attendance?  
 
 ### Key Findings
-- **Occupancy vs. Unemployment:** We found a strong **negative relationship** — higher unemployment consistently meant lower office occupancy, and this pattern persisted well beyond the initial shock of the pandemic.  
+- **Occupancy vs. Unemployment:** We found a strong **negative relationship** with higher unemployment which consistently meant lower office occupancy, and this pattern persisted well beyond the initial shock of the pandemic.  
 - **Tech Market Case Studies:** In California (San Francisco, Los Angeles, South Bay), occupancy plateaued below **50% of pre-pandemic levels**, even after economic recovery — signaling a structural shift in office demand.  
 - **Market Microtrends:** Heatmaps and boxplots revealed geographic disparities in recovery. While some markets stabilized, others continued to show volatility in space availability and rent pricing.  
 - **Business Implications:** Our insights suggested companies should consider **downsizing, rotating teams, or adopting shared workspaces**, while landlords and advisors like Savills could reposition strategy around discounted rents and hybrid office models.  
