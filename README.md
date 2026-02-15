@@ -1,4 +1,14 @@
-# real-estate-office-occupancy-covid
+ # Office Occupancy & COVID Impact: U.S. Tech Markets (2018–2024)
+ 
+  *Best Insights Award — ASA DataFest 2025** | Savills (Global Real Estate Advisory)
+      
+  ## The Question
+      
+Savills, a global real estate advisory firm, provided 6 years of office occupancy data and asked: *Where should clients locate offices post-pandemic? Should they downsize? Go hybrid?*
+      
+Our team analyzed U.S. tech markets — the most disrupted segment — and delivered market-specific recommendations that earned the **Best Insights Award** among 10+ competing teams at CSU East Bay.
+
+
 Savills-backed analysis of 2018–2024 office occupancy trends in U.S. tech markets; DataFest "Best Insights" winner.
 
 # Real Estate Market Insights: Office Occupancy & COVID Impact
